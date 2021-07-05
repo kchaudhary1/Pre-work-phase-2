@@ -1,0 +1,37 @@
+h1 {
+    color: green;
+}
+Li {
+    List-style: none;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, td, th{
+    border: 1px solid black;
+}
+.html-Lists {
+    List-style-type: square;
+}
+.css-Lists {
+    color: blue;
+}
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+body {
+    color: red;
+}
+.center-List {
+    width: 50%;
+    List-style-position: inside;
+    text-align: Left;
+    display: inline-block;
+}
+input, label {
+    display: block;
+    margin-top: .3em;
+}
